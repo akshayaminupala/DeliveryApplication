@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249852209360",
+    "firebase_url": "https://fastfly-7403a.firebaseio.com",
+    "project_id": "fastfly-7403a",
+    "storage_bucket": "fastfly-7403a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249852209360:android:4d6d53ea527351cb8556d5",
+        "android_client_info": {
+          "package_name": "com.flastflydelivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249852209360-ot4f680mpmnbajgkabb2h6joj94hso35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flastflydelivery.app",
+            "certificate_hash": "b8d259dc8695ebd598a4f153b7a874d8362973e4"
+          }
+        },
+        {
+          "client_id": "249852209360-4ojll3gsrvrcq85j7rnq8eqlboqcmri3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQz-3Ekze-7dxILfnx0XM4PPLzlu6sTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249852209360-4ojll3gsrvrcq85j7rnq8eqlboqcmri3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249852209360-k9viinfk6l0bbmiv66malecrnl1butvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flastflydelivery.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
